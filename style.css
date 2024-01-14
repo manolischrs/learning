@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  background-color: rgb(114, 17, 17);
+}
+
+/* .second {
+  background-color: yellow;
+} */
